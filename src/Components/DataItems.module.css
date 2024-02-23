@@ -1,0 +1,15 @@
+.itemsRowClass {
+  margin: 20px 10px 10px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 20px;
+  backdrop-filter: blur(10px);
+  background: rgba(48, 100, 107, 0.451);
+  background: linear-gradient(90deg, rgba(48,100,107,1) 0%, rgba(48, 100, 107, 0.399) 47%, rgba(255,255,255,1) 100%);
+}
+
+.itemsColClass {
+  padding-top: 4px;
+  color: #fff;
+  font-size: 25px;
+}
